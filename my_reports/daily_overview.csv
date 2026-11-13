@@ -1,0 +1,13 @@
+workflow_id,date,total_calls,connected_calls,connectivity_rate,success_leads
+motor_renewal,2026-10-01,64,36,0.5625,5
+motor_renewal,2026-10-02,59,37,0.6271,8
+motor_renewal,2026-10-03,80,39,0.4875,8
+motor_renewal,2026-10-04,95,56,0.5895,10
+motor_renewal,2026-10-05,92,50,0.5435,8
+motor_renewal,2026-10-06,108,67,0.6204,8
+policy_feedback,2026-10-01,61,38,0.6230,14
+policy_feedback,2026-10-02,66,33,0.5000,7
+policy_feedback,2026-10-03,69,41,0.5942,12
+policy_feedback,2026-10-04,88,51,0.5795,15
+policy_feedback,2026-10-05,84,43,0.5119,16
+policy_feedback,2026-10-06,105,57,0.5429,15
